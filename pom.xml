@@ -13,19 +13,21 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-swagger</name>
 	<description>Learning about Swagger with Spring Boot</description>
-	<url/>
-	<licenses>
-		<license/>
-	</licenses>
+
 	<developers>
-		<developer/>
+		<developer>
+			<name>Lucas de Morais Nascimento Taguchi</name>
+			<email>luksmnt1101@gmail.com</email>
+			<url>https://lucasmoraist.github.io/Portfolio/</url>
+		</developer>
 	</developers>
-	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
-	</scm>
+
+	<repositories>
+		<repository>
+			<id>https://springdoc.org/</id>
+			<url>https://github.com/springdoc/springdoc-openapi-maven-plugin</url>
+		</repository>
+	</repositories>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
