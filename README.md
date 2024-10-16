@@ -5,8 +5,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## Descrição
-Este projeto demonstra a criação de um CRUD básico para gerenciar pessoas, utilizando anotações do Swagger para documentar a API RESTful. As anotações 
-fornecem descrições detalhadas dos endpoints, parâmetros, respostas e modelos de dados, facilitando a compreensão e o uso da API por desenvolvedores.
+Este projeto tem como objetivo demonstrar a utilização do Swagger para documentação de APIs em uma aplicação Spring Boot. Ele implementa um CRUD básico para gerenciar pessoas, utilizando anotações do Swagger para fornecer descrições detalhadas dos endpoints, parâmetros, respostas e modelos de dados. Isso facilita a compreensão e o uso da API por desenvolvedores, tornando a integração mais eficiente.
 
 ### Funcionalidades:
 
